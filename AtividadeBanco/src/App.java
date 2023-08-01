@@ -10,7 +10,7 @@ public class App {
         Locale.setDefault(Locale.US);
         CadastroConta conta;
 
-        System.out.println("Bem Vindo(a) ao Banco Xellinho...");
+        System.out.println("Bem Vindo(a) ao Banco X...");
         System.out.println("Vamos abrir uma nova conta?");
         System.out.print("Insira o número de sua nova conta: ");
         int numeroConta = sc.nextInt();
